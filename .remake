@@ -1,0 +1,6 @@
+{
+    "port": 3000,
+    "sessionSecret": "OqvwXMJpI3KXfgx9Xh9F7PT7aBrsf0",
+    "jwtSecret": "GPeNhMHPB9XUvTEXgbkQNyGzQueYV57U",
+    "remakeMultiTenant": false
+}
